@@ -1,0 +1,2 @@
+#Test nr 2
+Adding text to another file.
